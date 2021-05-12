@@ -1,3 +1,3 @@
 # LTSM-Stock-Predictor
 
-Using Tensorflows LTSM models to help predict closing prices of securities.
+This project intention was to practice Tensorflows LTSM models to help predict the next day closing prices.
